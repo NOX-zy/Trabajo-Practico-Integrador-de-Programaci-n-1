@@ -16,19 +16,15 @@ El sistema fue desarrollado como Trabajo Práctico Integrador de la materia Prog
 
 La aplicación permite agregar, actualizar, buscar, filtrar y ordenar información sobre distintos países, además de generar estadísticas generales a partir de los datos almacenados.
 
----
-
 ## Estructura de Datos Utilizada
 
 Cada país se almacena como un diccionario con los siguientes atributos:
-
 {
     "nombre": "Argentina",
     "poblacion": 45376763,
     "superficie": 2780400,
     "continente": "America"
 }
-
 Todos los países se almacenan dentro de una lista.
 
 
@@ -37,7 +33,6 @@ Todos los países se almacenan dentro de una lista.
 * Python 3.x
 * Módulo csv (incluido en Python)
 * Archivo CSV ubicado en: datos/paises.csv
-
 
 ## Ejecución del Programa
 
@@ -83,7 +78,6 @@ Todos los países se almacenan dentro de una lista.
 
 ## Ejemplo de Archivo CSV
 
-```csv
 nombre,poblacion,superficie,continente
 Argentina,45376763,2780400,America
 Brasil,213993437,8515767,America
@@ -94,7 +88,6 @@ Japon,125800000,377975,Asia
 
 ### Entrada
 
-```text
 Seleccione una opción: 3
 Buscar: arg
 
