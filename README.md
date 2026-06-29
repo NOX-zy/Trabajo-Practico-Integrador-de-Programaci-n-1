@@ -112,7 +112,7 @@ Link del repositorio: https://github.com/NOX-zy/Trabajo-Practico-Integrador-de-P
 
 ## Video Demostrativo
 
-Link del video: Falta
+Link del video: https://youtu.be/EDwHLYcggtA
 
 ## Documentación
 
